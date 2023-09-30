@@ -1,2 +1,1 @@
-# react-ativ4
-Aplicação SPA com gerenciamento  de estados com Redux
+# react-ativ4 spa-redux
